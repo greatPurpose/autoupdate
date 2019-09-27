@@ -1,0 +1,13 @@
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Release\MSIBootstrapper.exe.config
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Release\MSIBootstrapper.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Release\MSIBootstrapper.pdb
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Release\MSIBootstrapper.csprojAssemblyReference.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Release\MSIBootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Release\MSIBootstrapper.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Release\MSIBootstrapper.pdb
+D:\DotNETFramework\Desktop\ProClickApp\bin\Release\MSIBootstrapper.exe.config
+D:\DotNETFramework\Desktop\ProClickApp\bin\Release\MSIBootstrapper.exe
+D:\DotNETFramework\Desktop\ProClickApp\bin\Release\MSIBootstrapper.pdb
+D:\DotNETFramework\Desktop\MSIBootstrapper\obj\Release\MSIBootstrapper.exe
+D:\DotNETFramework\Desktop\MSIBootstrapper\obj\Release\MSIBootstrapper.pdb
+D:\DotNETFramework\Desktop\MSIBootstrapper\obj\Release\MSIBootstrapper.csprojAssemblyReference.cache

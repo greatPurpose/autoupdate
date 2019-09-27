@@ -1,0 +1,10 @@
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\MSIBootstrapper.exe.config
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\MSIBootstrapper.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\MSIBootstrapper.pdb
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Debug\MSIBootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Debug\MSIBootstrapper.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Debug\MSIBootstrapper.pdb
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\MSIBootstrapper\obj\Debug\MSIBootstrapper.exe.config
+D:\DotNETFramework\Desktop\MSIBootstrapper\obj\Debug\MSIBootstrapper.exe.config
+D:\DotNETFramework\Desktop\MSIBootstrapper\obj\Debug\MSIBootstrapper.exe
+D:\DotNETFramework\Desktop\MSIBootstrapper\obj\Debug\MSIBootstrapper.pdb

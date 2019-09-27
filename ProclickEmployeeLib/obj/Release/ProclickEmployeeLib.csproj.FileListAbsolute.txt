@@ -1,0 +1,59 @@
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\ffmpeg.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\ngrok.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\ProclickEmployeeLib.exe.config
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\ProclickEmployeeLib.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\ProclickEmployeeLib.pdb
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\CSCore.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\FluentFTP.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\Newtonsoft.Json.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\SharpAvi.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\CSCore.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\FluentFTP.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\Newtonsoft.Json.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\SharpAvi.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.csprojAssemblyReference.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.AutoUpdater.AutoUpdaterDialog.resources
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.CredentialsForm.resources
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.csproj.GenerateResource.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.csproj.CoreCompileInputs.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.csproj.CopyComplete
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.pdb
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\ffmpeg.exe
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\ngrok.exe
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\ProclickEmployeeLib.exe.config
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\ProclickEmployeeLib.exe
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\ProclickEmployeeLib.pdb
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\CSCore.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\FluentFTP.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\Microsoft.Win32.TaskScheduler.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\Newtonsoft.Json.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\SharpAvi.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\CSCore.xml
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\FluentFTP.xml
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\Microsoft.Win32.TaskScheduler.xml
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\Newtonsoft.Json.xml
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\SharpAvi.xml
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.AutoUpdater.AutoUpdaterDialog.resources
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.CredentialsForm.resources
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.csproj.GenerateResource.cache
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.csproj.CopyComplete
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.exe
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.pdb
+D:\DotNETFramework\Desktop\ProclickEmployeeLib\obj\Release\ProclickEmployeeLib.csprojAssemblyReference.cache

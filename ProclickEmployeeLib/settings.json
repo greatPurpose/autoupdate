@@ -1,0 +1,8 @@
+{
+  "EmployeeId": 0,
+  "NgrokWebInterface": "http://localhost:4040/api/tunnels",
+  "ApiHost": "http://cms.alexanderfried.com",
+  "HttpListenerPort": 7642,
+  "Visibility": 0,
+  "Version":  "1.0.1"
+}

@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZohoAccounts", "ZohoAccounts\ZohoAccounts.csproj", "{77CB13E7-2A84-41A3-B938-6595EC7B247F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProclickEmployeeLib", "ProclickEmployeeLib\ProclickEmployeeLib.csproj", "{B4151483-2DA0-46DC-B449-C53586C849E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProclickEmployeeService", "ProclickEmployeeService\ProclickEmployeeService.csproj", "{5F95F262-C859-452E-84C2-31F04A4F8548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProClickApp", "ProClickApp\ProClickApp.csproj", "{57CBCF21-A02B-4601-A11C-3A3E0D5A1FA5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7C150690-A6D3-4034-A8BA-501CE3012FF5} = {7C150690-A6D3-4034-A8BA-501CE3012FF5}
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AppSetup", "AppSetup\AppSetup.vdproj", "{D83604D5-971E-4448-8782-A8D8A25FCF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSIBootstrapper", "MSIBootstrapper\MSIBootstrapper.csproj", "{7C150690-A6D3-4034-A8BA-501CE3012FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CB13E7-2A84-41A3-B938-6595EC7B247F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CB13E7-2A84-41A3-B938-6595EC7B247F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CB13E7-2A84-41A3-B938-6595EC7B247F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CB13E7-2A84-41A3-B938-6595EC7B247F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4151483-2DA0-46DC-B449-C53586C849E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4151483-2DA0-46DC-B449-C53586C849E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4151483-2DA0-46DC-B449-C53586C849E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4151483-2DA0-46DC-B449-C53586C849E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F95F262-C859-452E-84C2-31F04A4F8548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F95F262-C859-452E-84C2-31F04A4F8548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F95F262-C859-452E-84C2-31F04A4F8548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F95F262-C859-452E-84C2-31F04A4F8548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CBCF21-A02B-4601-A11C-3A3E0D5A1FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CBCF21-A02B-4601-A11C-3A3E0D5A1FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CBCF21-A02B-4601-A11C-3A3E0D5A1FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CBCF21-A02B-4601-A11C-3A3E0D5A1FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83604D5-971E-4448-8782-A8D8A25FCF1A}.Debug|Any CPU.ActiveCfg = Debug
+		{D83604D5-971E-4448-8782-A8D8A25FCF1A}.Release|Any CPU.ActiveCfg = Release
+		{7C150690-A6D3-4034-A8BA-501CE3012FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C150690-A6D3-4034-A8BA-501CE3012FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C150690-A6D3-4034-A8BA-501CE3012FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C150690-A6D3-4034-A8BA-501CE3012FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D574BF9B-326D-45A5-82D8-143EC881F9B4}
+	EndGlobalSection
+EndGlobal

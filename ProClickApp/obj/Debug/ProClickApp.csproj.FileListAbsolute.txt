@@ -1,0 +1,63 @@
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ffmpeg.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ngrok.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ProClickApp.exe.config
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ProClickApp.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ProClickApp.pdb
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ProclickEmployeeLib.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\FluentFTP.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\CSCore.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\SharpAvi.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ProclickEmployeeLib.pdb
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ProclickEmployeeLib.exe.config
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\FluentFTP.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\CSCore.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\SharpAvi.xml
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\obj\Debug\ProClickApp.csprojAssemblyReference.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\obj\Debug\ProClickApp.Properties.Resources.resources
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\obj\Debug\ProClickApp.csproj.GenerateResource.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\obj\Debug\ProClickApp.csproj.CoreCompileInputs.cache
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\obj\Debug\ProClickApp.csproj.CopyComplete
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\obj\Debug\ProClickApp.exe
+C:\Users\David Fried\Downloads\FILIP-autoupdate\Desktop\ProClickApp\obj\Debug\ProClickApp.pdb
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ffmpeg.exe
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ngrok.exe
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ProClickApp.exe.config
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ProClickApp.exe
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ProClickApp.pdb
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ProclickEmployeeLib.exe
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\FluentFTP.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\Newtonsoft.Json.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\CSCore.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\SharpAvi.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ProclickEmployeeLib.pdb
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ProclickEmployeeLib.exe.config
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\FluentFTP.xml
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\Newtonsoft.Json.xml
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\CSCore.xml
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\SharpAvi.xml
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProClickApp\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\DotNETFramework\Desktop\ProClickApp\obj\Debug\ProClickApp.csprojAssemblyReference.cache
+D:\DotNETFramework\Desktop\ProClickApp\obj\Debug\ProClickApp.Properties.Resources.resources
+D:\DotNETFramework\Desktop\ProClickApp\obj\Debug\ProClickApp.csproj.GenerateResource.cache
+D:\DotNETFramework\Desktop\ProClickApp\obj\Debug\ProClickApp.csproj.CopyComplete
+D:\DotNETFramework\Desktop\ProClickApp\obj\Debug\ProClickApp.exe
+D:\DotNETFramework\Desktop\ProClickApp\obj\Debug\ProClickApp.pdb
